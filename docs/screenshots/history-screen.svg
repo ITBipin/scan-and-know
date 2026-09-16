@@ -1,0 +1,18 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#F4F6FB"/>
+  <text x="90" y="110" font-family="Arial, sans-serif" font-size="52" font-weight="800" fill="#111827">History</text>
+  <rect x="90" y="170" width="1020" height="130" rx="22" fill="#FFFFFF"/>
+  <text x="130" y="223" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#111827">Apple</text>
+  <text x="130" y="268" font-family="Arial, sans-serif" font-size="26" font-weight="600" fill="#4B5563">Food</text>
+  <text x="960" y="248" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#1E3A8A">10:42 AM</text>
+
+  <rect x="90" y="330" width="1020" height="130" rx="22" fill="#FFFFFF"/>
+  <text x="130" y="383" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#111827">USB-C</text>
+  <text x="130" y="428" font-family="Arial, sans-serif" font-size="26" font-weight="600" fill="#4B5563">Electronics</text>
+  <text x="960" y="408" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#1E3A8A">09:20 AM</text>
+
+  <rect x="90" y="490" width="1020" height="130" rx="22" fill="#FFFFFF"/>
+  <text x="130" y="543" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#111827">Neem</text>
+  <text x="130" y="588" font-family="Arial, sans-serif" font-size="26" font-weight="600" fill="#4B5563">Plant</text>
+  <text x="960" y="568" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#1E3A8A">08:15 AM</text>
+</svg>

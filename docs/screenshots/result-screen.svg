@@ -1,0 +1,9 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#F4F6FB"/>
+  <rect x="80" y="80" width="1040" height="300" rx="28" fill="#D7E7FF"/>
+  <text x="120" y="500" font-family="Arial, sans-serif" font-size="52" font-weight="800" fill="#111827">APPLE</text>
+  <text x="120" y="560" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#4B5563">Food</text>
+  <text x="120" y="620" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#1E3A8A">AI confidence: 94%</text>
+  <rect x="120" y="660" width="220" height="72" rx="16" fill="#1D4ED8"/>
+  <text x="170" y="706" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">Scan Again</text>
+</svg>
